@@ -1,0 +1,38 @@
+<annotation>
+	<folder>helmet_images</folder>
+	<filename>vid_frame (581).jpg</filename>
+	<path>D:\wowexp\helmet_images\vid_frame (581).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>26</ymin>
+			<xmax>207</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>36</ymin>
+			<xmax>243</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>
